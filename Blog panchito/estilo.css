@@ -1,0 +1,83 @@
+/*selector universal es de css */
+*{ 
+    box-sizing: border-box;
+}
+/*estilos genrales*/
+body{
+    font-family: Arial, Helvetica, sans-serif, ;
+    background-color: #f8f9fa;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+     line-height: 1.6;
+}
+
+    /*---------------------------------------------------------------------*/
+.post1{
+    background-color: white;
+    width: 600px;
+    padding: 30px;
+    margin-bottom: 50px;
+    border-radius: 10px;
+    
+    
+   
+    border: 2px solid #1a4a7a;   
+    outline: 2px dashed #ffcc00;  
+    outline-offset: 5px;        
+    
+    box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+}
+
+
+.nota1 {
+    margin-top : 20px;
+    padding: 10px;
+    background-color: #fff3cd;
+    border-left: 5px solid #f0ad4e;
+}
+  /*---------------------------------------------------------------------*/
+
+.post2{
+    
+background-color: white;
+    width: 600px;
+    padding: 30px;
+    margin-bottom: 50px;
+    border-radius: 10px; 
+    border: 2px solid #1a4a7a;    
+    outline: 2px dashed #ffcc00;  
+    outline-offset: 5px;         
+    
+    box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+}
+
+.nota2{
+    margin-top : 20px;
+    padding: 10px;
+    background-color: #81fff7;
+    border-left: 5px solid #50f761;
+}
+
+    /*---------------------------------------------------------------------*/
+.post3{
+background-color: white;
+    width: 600px;
+    padding: 30px;
+    margin-bottom: 50px;
+    border-radius: 10px;
+    
+   
+    border: 2px solid #1a4a7a;   
+    outline: 2px dashed #ffcc00;  
+    outline-offset: 5px;          
+    
+    box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+}
+.nota3 {
+    margin-top : 20px;
+    padding: 10px;
+    background-color: #6993d7;
+    border-left: 5px solid #f0ad4e;
+}
